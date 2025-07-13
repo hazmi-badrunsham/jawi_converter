@@ -1,7 +1,7 @@
 name: jawi_converter
 description: A Dart package to convert Bahasa Melayu (Rumi) into Jawi
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/hazmi-badrunsham/jawi_converter
 
 environment:
   sdk: ^3.8.1
