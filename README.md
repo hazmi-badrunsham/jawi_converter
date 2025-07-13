@@ -21,7 +21,7 @@ void main() {
   print(JawiConverter.toJawi('Saya ke sekolah.'));
   // Output: ساي ك سكوله.
 }
-
+```
 ## ⚠️ Disclaimer
 
 This package uses a hybrid dictionary + rule-based approach.  
